@@ -1,7 +1,12 @@
 {
   "name": "SimpleExe",
+  "type": "Executable",
   "version": "1.0.0",
-  "dependencies": [],
+  "dependencies": [
+    "Colors@1.0.2"
+  ],
   "public": [],
-  "source": []
+  "source": [
+    "Src/Main.cpp"
+  ]
 }
