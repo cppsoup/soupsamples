@@ -4,5 +4,6 @@
 
 int main()
 {
-    std::wcout << L"Hello World!" << std::endl;
+    Colors::ColorF color = Colors::ColorF::Black();
+    std::wcout << L"Hello World: " << color <<  L"!" << std::endl;
 }
