@@ -5,7 +5,6 @@
   "dependencies": [
     "Colors@1.0.2"
   ],
-  "public": [],
   "source": [
     "Src/Main.cpp"
   ]
