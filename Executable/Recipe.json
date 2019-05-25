@@ -3,7 +3,7 @@
   "type": "Executable",
   "version": "1.0.0",
   "dependencies": [
-    "Colors@1.0.2"
+    "D:/Repos/SoupSTL/core/"
   ],
   "source": [
     "Src/Main.cpp"

@@ -1,9 +1,7 @@
 
-#include <iostream>
-#include <Soup/Colors.h>
+import std.core;
 
 int main()
 {
-    Colors::ColorF color = Colors::ColorF::Black();
-    std::wcout << L"Hello World: " << color <<  L"!" << std::endl;
+    std::wcout << L"Hello World: " <<  L"!" << std::endl;
 }
